@@ -1,1 +1,1 @@
-# EX4
+# EX4  This assignment includes a relatively complex set of classes and interfaces. we implements a set of geometric shapes, a shape container, a basic GUI, and basic save/load capabilities. Moreover, in this assignment,we are required to implement a JUnit class -and  test all functions (Geo, Collections, save & load. GUI classes are not required to have JUNIT tests).
